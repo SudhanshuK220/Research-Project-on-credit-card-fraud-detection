@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection: A Research Project on Comparative Analysis of ML Models
 
-This repository contains a **research-based project**. It is a reproducible machine learning pipeline that compares five classifiers (SVM, Decision Tree, KNN, Random Forest and XGBoost) for credit card fraud detection on the ULB dataset, using statistical validation, cost-sensitive threshold analysis and SHAP explainability.
+This repository contains a **research-based project**. It is a reproducible machine learning pipeline that compares five classifiers (SVM, Decision Tree, KNN, Random Forest and XGBoost) for credit card fraud detection on the ULB dataset, using statistical validation, cost-sensitive threshold analysis and SHAP explainability..
 
 All results reported in this README are the **research results of this project**, obtained with the code in this repository on the ULB dataset (80/20 stratified hold-out split and 10-fold stratified cross-validation).
 
